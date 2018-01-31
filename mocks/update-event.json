@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"new meow world\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "59262150-0633-11e8-84eb-41cbd2b6c0d0"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
